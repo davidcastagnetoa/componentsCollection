@@ -1,8 +1,12 @@
 # QML Component Collection with PySide2 and Qt5
 
+![Descripción de la imagen](images/component001.png)
+
 ## Overview
 
 This repository contains a curated collection of QML components designed with PySide2 and Qt5. The components showcase a range of functionalities and are suitable for various application scenarios. This collection requires Python 3 or higher and utilizes the capabilities of Qt5 to provide a sleek and modern user interface.
+
+Currently, this repository is under development, more components will be added soon
 
 ## Prerequisites
 
