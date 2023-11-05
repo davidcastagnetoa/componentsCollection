@@ -52,7 +52,7 @@ Open your terminal and run the following command to clone the repository:
 
 ### Note
 
-Edit the line 16 in main.py for watch each component
+Edit the line 16 in main.py for the each component route in qml folder for watch each component
 
 ## Contributing
 
