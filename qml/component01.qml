@@ -155,13 +155,13 @@ Window {
 
             // Progress Circle Outcome
             property real outComeMaxValue: 4000.00
-            property real outComeValue: 4000.00
+            property real outComeValue: 3500.00
             property int startAngleOutcome : 80
             property color progressColorOutcome: outcomeColor
             property int progressWidthOutcome: 16
             // Progress Circle Income
             property real inComeMaxValue: 3000.00
-            property real inComeValue: 3000.00
+            property real inComeValue: 2500.00
             property int startAngleIncome : -80
             property color progressColorIncome: incomeColor
             property int progressWidthIncome: 16

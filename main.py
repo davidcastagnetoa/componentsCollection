@@ -13,7 +13,7 @@ class main(QMainWindow):
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     engine = QQmlApplicationEngine()
-    engine.load(os.path.join(os.path.dirname(__file__), "qml/main.qml"))
+    engine.load(os.path.join(os.path.dirname(__file__), "qml/component02.qml")) # Edit this line to watch the component
     # FUNCION PARA CERRAR VENTANA
     if not engine.rootObjects():
         sys.exit(-1)
